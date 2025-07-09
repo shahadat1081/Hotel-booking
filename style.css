@@ -459,7 +459,7 @@ footer:hover{
 }
 /*media query part*/
 
-@media(max-width:554px) {
+@media(max-width:480px) {
     .nav-link{
     display: none;
     }
