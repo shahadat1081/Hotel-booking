@@ -208,10 +208,11 @@ nav{
 }
 
 .facilities-grid{
-    width: 100%;
+    width: 85%;
     display: grid;
      grid-template-columns: auto auto auto;
     margin-top: 1rem;
+    margin: 0 auto;
     
 
   
