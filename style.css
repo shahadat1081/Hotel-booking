@@ -460,7 +460,7 @@ footer:hover{
 }
 /*media query part*/
 
-@media(max-width:480px) {
+@media(max-width:580px) {
     .nav-link{
     display: none;
     }
@@ -498,6 +498,8 @@ footer:hover{
     .facilities-grid{
         display: grid;
         grid-template-columns: repeat(1,1fr);
+        width: 85%;
+        margin-left: -1rem;
     }
     .div3 h2{
         margin-top: -8rem;
